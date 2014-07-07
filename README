@@ -1,0 +1,6 @@
+Created with the  sample for the Typesafe Stack (http://typesafe.com/stack).
+
+To run and test it use SBT invoke: 'sbt run'
+
+# Twitter_bot
+The source of Twitterbot.
